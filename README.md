@@ -1,4 +1,4 @@
-Erick Rolando Zepeda Mondragon# Frases célebres de programadores
+               Erick Rolando Zepeda Mondrgaon
 
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
 
